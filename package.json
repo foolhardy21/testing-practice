@@ -9,6 +9,7 @@
   "author": "foolhardy21",
   "license": "ISC",
   "devDependencies": {
+    "@babel/preset-env": "^7.14.8",
     "eslint": "^7.31.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.23.4",
